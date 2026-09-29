@@ -199,6 +199,8 @@ GND  -----| GND           |
 ---
 
 ## Expected Output
+<img width="573" height="283" alt="image" src="https://github.com/user-attachments/assets/1d982a6f-8324-46e1-a34d-1c63479dc2a2" />
+
 
 ### Bright Condition
 
